@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hunting of the hare; with her last will and testament. As 'twas performed on Bamstead Downes, by conny catchers, and their hounds. To a pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03727</idno>
+            <idno type="STC">Wing H3770A</idno>
+            <idno type="STC">ESTC R178321</idno>
+            <idno type="EEBO-CITATION">52612177</idno>
+            <idno type="OCLC">ocm 52612177</idno>
+            <idno type="VID">179472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179472)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hunting of the hare; with her last will and testament. As 'twas performed on Bamstead Downes, by conny catchers, and their hounds. To a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Text in black letter, printed in five columns.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:179472:1"/>
+            <!-- PDF PAGE 12 -->
+            <head>The Hunting of the Hare; With her laſt Will and Teſtament.</head>
+            <head type="sub">
+               <l>As 'twas performed on Bamſtead Downes,</l>
+               <l>By Conny Catchers, and the<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Hounds.</l>
+            </head>
+            <opener>To a pleaſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Tune.</opener>
+            <lg>
+               <l>OF all delights that earth doth yield</l>
+               <l>Give me a pack of Hounds in field</l>
+               <l>Whoſe eccho ſhall throughout the sky,</l>
+               <l>Make <hi>J<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve</hi> admire our Harmony,</l>
+               <l>and wiſh that he a Mortal were,</l>
+               <l>to view the Paſtime we have here.</l>
+            </lg>
+            <lg>
+               <l>I will tell you of a rare Scent,</l>
+               <l>Where many a gallant horſe was ſpent</l>
+               <l>On <hi>Bamſtead Downs</hi> a Hare we found,</l>
+               <l>Which lead us all a ſmoaking round,</l>
+               <l>o're Hedg and Ditch away ſhe goes,</l>
+               <l>admiring her approaching Foes.</l>
+            </lg>
+            <lg>
+               <l>But when ſhe found her ſtrength to waſt,</l>
+               <l>She parly'd with the Hounds at laſt:</l>
+            </lg>
+            <sp>
+               <lg>
+                  <l>Kind Hounds (quoth ſhe) forbear to kill</l>
+                  <l>A harmleſs Hare, that nere thought ill;</l>
+                  <l>and if your Maſter ſport do crave,</l>
+                  <l>I'le lead a Scent as he would have.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hunts-man.</speaker>
+               <lg>
+                  <l>Away, away, thou art alone,</l>
+                  <l>Make haſt I ſay, and get thée gone<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Wée'l give the Law for half a mile,</l>
+                  <l>To ſée if thou canſt us beguile:</l>
+                  <l>but then expect a thundring cry,</l>
+                  <l>made by us, and our harmony.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hare.</speaker>
+               <lg>
+                  <l>Now ſince you ſet my life ſo ſleight,</l>
+                  <l>I'<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e make Black-ſloven turn to white<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And <hi>Yorkſhire</hi> Gray, that runs at all,</l>
+                  <l>I'le make him wiſh he were in Stall:</l>
+                  <l>and Sorrel, he that <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>éems to fly,</l>
+                  <l>I'le make him ſupple ere he dye.</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Barnards</hi> Bay do what he may,</l>
+                  <l>Or <hi>Barrons</hi> Bay, that now and than,</l>
+                  <l>Did interrupt me on my Way,</l>
+                  <l>I'le make him neither ſet nor play</l>
+                  <l>or conſtant <hi>Robin,</hi> though he lye</l>
+                  <l>at his advantage, what care I.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Will. Hatton</hi> he hath done me wrong,</l>
+                  <l>He ſtruck me as I run along,</l>
+                  <l>And with one pat made ſo ſore,</l>
+                  <l>That I ran réeling too and fro;</l>
+                  <l>but if I dye his Maſter tell</l>
+                  <l>that fool ſhall ring my paſſing-bell.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hounds.</speaker>
+               <lg>
+                  <l>Alas, poor Hare! it is our nature</l>
+                  <l>To kill thée, and no other creature,</l>
+                  <l>For our Maſter wants a bit,</l>
+                  <l>And thou wilt well become the ſpit;</l>
+                  <l>h'l eat thy fleſh, we'l pick thy bone,</l>
+                  <l>this is thy doom ſo get the gone.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hare.</speaker>
+               <lg>
+                  <l>Your Maſter may have better chear,</l>
+                  <l>For I am dry and butter's dear:</l>
+                  <l>But if he pleaſe to make a frend,</l>
+                  <l>He's better give a P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ddings-end;</l>
+                  <l>for I being kil'd, he ſport will lack,</l>
+                  <l>&amp; I muſt hang on Hunts-man back.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hounds.</speaker>
+               <lg>
+                  <l>Alas Poor Hare! we pitty thée,</l>
+                  <l>If without nature 't would agrée;</l>
+                  <l>But all thy dubling ſhifts I fear,</l>
+                  <l>Will not prevail, thy death's ſo near</l>
+                  <l>then make thy will, it may be that</l>
+                  <l>may ſave thée, or I know not what.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hare.</speaker>
+               <lg>
+                  <l>Then I bequeath my body frée,</l>
+                  <l>Vnto your Maſters courteſie:</l>
+                  <l>And if he pleaſe my life to grant,</l>
+                  <l>I'le be his game when ſport is ſcant;</l>
+                  <l>but if I dye, each gréedy hound</l>
+                  <l>divided my entrals on the ground.</l>
+               </lg>
+            </sp>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <lg>
+                  <l>
+                     <hi>IMprimis,</hi> I bequeath my head</l>
+                  <l>To him that a fair fool doth wed?</l>
+                  <l>who hath before her maiden head loſt</l>
+                  <l>I would not have the Proverb croſt,</l>
+                  <l>
+                     <unclear>w<hi rend="sup">ch</hi> l'</unclear> be hard mongſt many qiblets<g ref="char:punc">▪</g>
+                  </l>
+                  <l>ſet the Hares head 'gainſt the Gooſe giblets.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Item,</hi> I do give and bequeath</l>
+                  <l>To Men in debt (after my death)</l>
+                  <l>My ſubtle-ſcent, that ſo they may</l>
+                  <l>Beware of ſuch and would betray</l>
+                  <l>them to a miſerable Fate,</l>
+                  <l>by Blood-hoinds from the Comp<g ref="char:EOLhyphen"/>ter-gate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Item,</hi> I to a Tirn-coate give</l>
+                  <l>(That he may more obſcurely live)</l>
+                  <l>My ſwift &amp; ſudden doublings, which</l>
+                  <l>Will make him politick and rich</l>
+                  <l>though at the laſt with many wound<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>I wiſh him kild by his own hound<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Item,</hi> I give into their hands,</l>
+                  <l>That purchaſe Dean and Chapters lands,</l>
+                  <l>My wretched jealouſies and fears,</l>
+                  <l>Mixt with the ſalt of Orphans tears,</l>
+                  <l>that long vexations may preſever,</l>
+                  <l>to plague them and their Heirs for ever.</l>
+               </lg>
+               <lg>
+                  <l>Before I dye (for life is ſcant)</l>
+                  <l>I would ſupply Mens proper want,</l>
+                  <l>And therefore I bequeath unto</l>
+                  <l>The ſcriv'ner (give the devil his due)</l>
+                  <l>that Forgeth, Swears, &amp; then For<g ref="char:EOLhyphen"/>ſwears,</l>
+                  <l>(to ſave his credit) both my ears.</l>
+               </lg>
+               <lg>
+                  <l>I giue to ſome Sequeſtered man,</l>
+                  <l>My skin to make a Iacket on:</l>
+                  <l>And I bequeath my féet to they</l>
+                  <l>That ſhortly mean to run away:</l>
+                  <l>when Truth is ſpeake<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, falſhood's dumb,</l>
+                  <l>Foxes muſt fly, when Lyons come.</l>
+               </lg>
+               <lg>
+                  <l>To Fidlers (for all trads muſt live)</l>
+                  <l>To ſerve for ſtrings, my guts I give</l>
+                  <l>For Gamſters that do play at tut,</l>
+                  <l>And love the ſport, I give my skut</l>
+                  <l>but laſt of all (in this ſad dump)</l>
+                  <l>to <hi>Tower-hill</hi> I bequeath my Rump</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hounds.</speaker>
+               <lg>
+                  <l>Was ever Hounds ſo baſely croſt,</l>
+                  <l>Our Maſters call us off ſo faſt,</l>
+                  <l>That we the ſcent have almoſt loſt,</l>
+                  <l>And they then muſt rule the roſt,</l>
+                  <l>therefore kind Hare we'l pardon you.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hare.</speaker>
+               <lg>
+                  <l>Thanks gentle Hounds, &amp; ſo adieu.</l>
+                  <l>And ſince your Maſter hath pardon'd me</l>
+                  <l>I'le lead you all to <hi>Banbury,</hi>
+                  </l>
+                  <l>Where <hi>John Turner</hi> hath a larger room</l>
+                  <l>To entertain all Gueſts that come,</l>
+                  <l>to laugh &amp; quaff in Wine &amp; Béer,</l>
+                  <l>a full Carouſe to your Gallée<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Coles, T. Ve<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
